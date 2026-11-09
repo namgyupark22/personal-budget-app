@@ -1,0 +1,1 @@
+{"name": "나의 가계부", "short_name": "가계부", "start_url": "./", "display": "standalone", "background_color": "#f5f6f2", "theme_color": "#214e41", "icons": [{"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}], "scope": "./"}
